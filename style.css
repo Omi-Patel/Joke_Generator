@@ -6,6 +6,7 @@
 html, body {
     height: 100%;
     width: 100%;
+    color: rgb(20, 2, 37);
   }
 
   h1{
@@ -13,17 +14,18 @@ html, body {
   }
 
   #joke{
+    color: rgb(1, 47, 107);
    text-align: center;
    display: flex;
    align-items: center;
     flex-direction: column;
     justify-content: center;
-    background-color: #15d3f9;
+    background-color: #15d3f9d5;
     padding: 10px;
     border-radius: 20px;
     box-shadow: 2px 2px 8px grey;
     font-size: 18px;
-    width: 500px;
+    width: 550px;
     height: 250px;
     margin: 50px;
     font-size: 24px;
