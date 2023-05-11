@@ -57,13 +57,22 @@ html, body {
 
 
   @media (max-width:768px){
+    h1{
+      color: antiquewhite;
+      text-shadow: 0px 0px 5px ghostwhite;
+    }
     .container{
+      border: none;
+        background-color: rgb(1, 5, 29);
         width: 99.85%;
     }
 
     #joke{
+        background-color: rgb(1, 5, 29);
+        border-radius: 40px;
         width: 330px;
-        height: 350px;
+        height: 450px;
+        color: rgb(138, 197, 252);
     }
 
     button{
